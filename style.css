@@ -54,6 +54,14 @@ display: flex;
 
 }
 
+@media (max-width: 700px) {
+,info {
+    text-align:center;
+    display:block;
+}
+
+}
+
 .info-text {
 margin-left: 40px;
 
